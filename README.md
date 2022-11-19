@@ -1,1 +1,1 @@
-Discovering Sycamore, and building a counter as any good boy should.
+Discovering Sycamore and building a counter as any good boy should.
